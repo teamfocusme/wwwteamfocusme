@@ -12,13 +12,13 @@ jobs:
         - name: Install dependencies
           run: yarn
 
-        - name: Build
-          run: ls -lR
+#        - name: Build
+#          run: ls -lR
 
         - name: Deploy
           uses: reggionick/s3-deploy@v3
           with:
-            folder: build
+            folder: "."
             bucket: ${{ secrets.S3_BUCKET }}
             bucket-region: ${{ secrets.S3_BUCKET_REGION }}
             dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
