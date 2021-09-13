@@ -1,0 +1,54 @@
+/*
+Theme Name: Impreza Child
+Template: Impreza
+Version: 1.9
+Author:	UpSolution
+Theme URI: http://us-themes.com/wp/Impreza/
+Author URI: http://us-themes.com/
+*/
+
+/*Add your own styles here:*/
+
+a.no-hover-tour-link:hover{
+    color:#fff !important;
+    transition-duration:none !important;
+    transition-property:none !important;
+}
+
+[name="tfsignup"] input[type="submit"] {
+    margin-top: 0px;
+}
+
+
+.l-subheader .w-nav-anchor.level_1 {
+padding: 0 15px;
+}
+
+.l-subheader  {
+    font-size: 20px !important;
+}
+
+
+IFRAME.wistia_embed {border: 1px solid #999999;}
+
+.gform_wrapper .top_label .gfield_label {
+    margin: 0px 0px 0px !important;
+    font-weight: normal  !important;
+    display: inline-block;
+    line-height: 1.3em;
+    clear: both;
+}
+
+.gform_wrapper .gfield_required {
+    color: #00aad5 !important;
+}
+
+.widget.widget_nav_menu .sub-menu > .menu-item > a {
+    padding: 2px 20px 2px 60px;
+    font-size: 12px;
+}
+
+.widget.widget_nav_menu .sub-menu .menu-item a:before {
+    left: 45px;
+    top: 2px;
+}
