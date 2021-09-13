@@ -13,7 +13,7 @@ jobs:
           run: yarn
 
         - name: Build
-          run: yarn build
+          run: ls -lR
 
         - name: Deploy
           uses: reggionick/s3-deploy@v3
