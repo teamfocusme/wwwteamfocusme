@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Secure Fields &#8211; teamfocus | project team management | web-based task management</title>
+	<atom:link href="/category/secure-fields/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Workflows for teams</description>
+	<lastBuildDate>Sun, 31 Aug 2014 23:56:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Two New Powerful Features For teamfocus</title>
+		<link>/two-new-powerful-features-for-teamfocus/</link>
+					<comments>/two-new-powerful-features-for-teamfocus/#respond</comments>
+		
+		<dc:creator><![CDATA[kevin]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2014 13:27:09 +0000</pubDate>
+				<category><![CDATA[Secure Fields]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<category><![CDATA[Workflow software]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=3397</guid>
+
+					<description><![CDATA[We are excited to release our latest round of improvements and features for teamfocus, our incredibly powerful project team management system. Along with the many small enhancements which help make using teamfocus easier to use, there are two key features which stand out. If you’re new to teamfocus click here to watch the Tour video. Secure Text...]]></description>
+										<content:encoded><![CDATA[<p>We are excited to release our latest round of improvements and features for teamfocus, our incredibly powerful project team management system.</p>
+<p>Along with the many small enhancements which help make using teamfocus easier to use, there are two key features which stand out. If you’re new to teamfocus <a href="//www.teamfocus.me/tour/" title="Tour" target="_blank">click here to watch the Tour video</a>.</p>
+<p><strong>Secure Text Fields</strong></p>
+<p>The first key innovation for the this release is centred around security. As you know, teamfocus already offers the ability to add as many custom Fields as you need to your Workflow, and now we’ve added a new one, the <strong>“Secure Text Field”.</strong></p>
+<p>Secure Text Fields enable you to create and store data with extra security inside your teamfocus Workflow.</p>
+<p>Secure Fields ensures that whatever data you store in that text field, like a Passport or Social Security Number, is now encrypted in your browser before it’s sent to teamfocus, and is only ever decrypted once it comes back to your browser. teamfocus will never be able to see what you have encrypted, which means that if we are ever requested by a law enforcement agency to hand over your data, all that we can provide is encrypted data which will be useless to anyone but you. This is a great feature for anyone concerned about their personal data ever being seen by anyone other than themselves. This also means that if you need to delete your data quickly and permanently, you simply delete your encryption keys.</p>
+<p>There are many other small features and changes we have made in this release which makes your life with teamfocus even easier. So checkout our How To – Secure Fields video below to see how to setup and use Secure Fields for your Team.</p>
+<p>&nbsp;</p>
+<p><a href="//fast.wistia.net/embed/iframe/i4kr6q2qs8?popover=true" class="wistia-popover[height=456,playerColor=7b796a,width=684]"><img src="https://embed-ssl.wistia.com/deliveries/8dbd9ca9981beaa9b11dd2119f6e224002407659.jpg?image_play_button=true&amp;image_play_button_color=7b796ae0&amp;image_crop_resized=160x100" alt="" /></a></p>
+<p><script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Task Finder</strong></p>
+<p>Our second highlighted feature is <strong>“Task Finder”</strong>, which is an easy and fast way to find all of your tasks, and the Filters they are on.</p>
+<p>For example, if you wanted to find all the tasks that are currently Active and that have not been actioned for more than 30 days (making them a Red task) you can now drill down and save that List of tasks to your favorites. Tasks Finder also lets you choose if you want to share the new Filter with your Team.</p>
+<p><strong>Drill down in “Find Tasks” to select the tasks you want to see.</strong></p>
+<p><a ref="magnificPopup" href="//www.teamfocus.me/wp-content/uploads/2014/04/Task-Finder-1.jpg"><img loading="lazy" class="alignnone size-large wp-image-3401" style="border: 1px solid #ededed;" src="//www.teamfocus.me/wp-content/uploads/2014/04/Task-Finder-1-1024x352.jpg" alt="Task-Finder-1" width="1024" height="352" srcset="/wp-content/uploads/2014/04/Task-Finder-1-1024x352.jpg 1024w, /wp-content/uploads/2014/04/Task-Finder-1-300x103.jpg 300w, /wp-content/uploads/2014/04/Task-Finder-1-500x172.jpg 500w, /wp-content/uploads/2014/04/Task-Finder-1-200x68.jpg 200w, /wp-content/uploads/2014/04/Task-Finder-1.jpg 1383w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Create a name for your new Filter, and if you choose, share it with your Team.</strong></p>
+<p><a ref="magnificPopup" href="//www.teamfocus.me/wp-content/uploads/2014/04/Task-Finder-2.jpg"><img loading="lazy" class="alignnone size-large wp-image-3402" style="border: 1px solid #ededed;" src="//www.teamfocus.me/wp-content/uploads/2014/04/Task-Finder-2-1024x417.jpg" alt="Task-Finder-2" width="1024" height="417" srcset="/wp-content/uploads/2014/04/Task-Finder-2-1024x417.jpg 1024w, /wp-content/uploads/2014/04/Task-Finder-2-300x122.jpg 300w, /wp-content/uploads/2014/04/Task-Finder-2-500x203.jpg 500w, /wp-content/uploads/2014/04/Task-Finder-2-200x81.jpg 200w, /wp-content/uploads/2014/04/Task-Finder-2.jpg 1397w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/two-new-powerful-features-for-teamfocus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
