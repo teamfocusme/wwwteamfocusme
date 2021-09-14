@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Customization &#8211; teamfocus | project team management | web-based task management</title>
+	<atom:link href="/category/customization/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Workflows for teams</description>
+	<lastBuildDate>Fri, 11 Sep 2015 00:33:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>You can now integrate your Calendar with your teamfocus account</title>
+		<link>/can-now-integrate-calendar-teamfocus-account/</link>
+					<comments>/can-now-integrate-calendar-teamfocus-account/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2014 05:27:16 +0000</pubDate>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4546</guid>
+
+					<description><![CDATA[You can now integrate your Calendar with your teamfocus account. A fantastic option for scheduled maintenance tasks.]]></description>
+										<content:encoded><![CDATA[<p>Now it&#8217;s easy to create tasks directly from your calendar. To help make scheduling easy we now support the integration of your iCalendar applications into your teamfocus account.</p>
+<p>By linking teamfocus with an iCalendar, you can automatically create tasks as each event occurs. Services like Google calendars for Gmail and IBM&#8217;s Lotus Notes support sharing calendars with iCalendar.</p>
+<p>This allows for the easy creation of recurring events for tasks such as regular maintenance events or meetings. As each event is due, teamfocus will automatically create a task in teamfocus.</p>
+<p>You can use the edit button after a calendar is linked to further control the Workflow and Step used for the new tasks.</p>
+<p><strong>How to link your iCalendar to teamfocus</strong><br />
+&#8211; To link your iCalendar to your teamfocus account, go to the settings icon in teamfocus, then go to Connections =&gt; Calendars, and select the &#8220;Add A New Calendar Connection&#8221; button.</p>
+<p><strong>Benefits of Calendar linking</strong><br />
+&#8211; Automatically create tasks as each event occurs in you calendar.<br />
+&#8211; Capture reoccurring calendar events in your teamfocus account for a complete record of tasks achieved</p>
+<p>If you have any questions or would like assistance using the calendar integration feature, just email us at <a href="mailto:support@teamfocus.me">support@teamfocus.me</a></p>
+<section class="l-section wpb_row height_auto"><div class="l-section-h i-cf"><div class="g-cols via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default">
+<div class="wpb_column vc_column_container"><div class="vc_column-inner">
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+ 		<h1>Thanks!</h1>
+ 		
+		<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+ 	</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+
+		</div>
+	</div>
+
+</div></div>
+</div></div></section>
+]]></content:encoded>
+					
+					<wfw:commentRss>/can-now-integrate-calendar-teamfocus-account/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quickly create tasks by forwarding an email to teamfocus</title>
+		<link>/quickly-create-tasks-forwarding-email-teamfocus/</link>
+					<comments>/quickly-create-tasks-forwarding-email-teamfocus/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2014 05:20:51 +0000</pubDate>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4543</guid>
+
+					<description><![CDATA[teamfocus now supports creating tasks by simply forwarding or sending emails to a custom address. You can now finally achieve inbox zero !]]></description>
+										<content:encoded><![CDATA[<p>One of the many great time saving features in teamfocus is the ability to create a new task by simply forwarding an email through to your teamfocus account.</p>
+<p>This can be very useful for capturing support emails or billing and invoicing emails and helps to keep your team focused on the work instead of checking emails.</p>
+<p>You can even set up a different addresses for assigning tasks to different team members.</p>
+<h5 class="null">How to get started</h5>
+<p>To set-up the teamfocus email address that you forward to, go to the settings icon in teamfocus, then go to Connections =&gt; Email, and select the &#8220;Add A New Email Connection&#8221; button.</p>
+<p>When you click on the &#8216;Add a New Email Connection&#8217; button you will be asked to name the new email connection and you can also choose how your email should create your new tasks, such as having the subject of the email be inserted as the name of the new task.</p>
+<p>Once set-up is completed, whenever an email is received at that address, teamfocus will create a single task with the information from the email.</p>
+<p><strong>Tip:</strong> You can fully automate the process by creating an email forwarding rule. For example, this can help you save time when you receive a new bill by automatically forwarding the email to teamfocus and having a new task created that goes straight to your teamfocus accounts workflow.</p>
+<p>As always, if you have any questions or would like assistance using the email task creation feature, just email us at <a href="mailto:support@teamfocus.me">support@teamfocus.me</a></p>
+<section class="l-section wpb_row height_auto"><div class="l-section-h i-cf"><div class="g-cols via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default">
+<div class="wpb_column vc_column_container"><div class="vc_column-inner">
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+ 		<h1>Thanks!</h1>
+ 		
+		<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+ 	</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+
+		</div>
+	</div>
+
+</div></div>
+</div></div></section>
+]]></content:encoded>
+					
+					<wfw:commentRss>/quickly-create-tasks-forwarding-email-teamfocus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>teamfocus Notifications helps you keep track of your teamwork without checking in.</title>
+		<link>/teamfocus-notifications-helps-keep-track-teamwork-without-checking/</link>
+					<comments>/teamfocus-notifications-helps-keep-track-teamwork-without-checking/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2014 05:33:21 +0000</pubDate>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4061</guid>
+
+					<description><![CDATA[The Notifications feature in teamfocus helps you keep on top of your important tasks by allowing you to choose to be notified, by email, whenever a task is added, edited or leaves your List (saved search).]]></description>
+										<content:encoded><![CDATA[<h3><a href="http://fast.wistia.net/embed/iframe/40xp8xdnqv?popover=true" class="wistia-popover[height=428,playerColor=7b796a,width=684]" style="color: #00aad5;"><img src="https://embed-ssl.wistia.com/deliveries/e6b4c62ec2b88d1a4d02a4e39033f5195eb2e555.jpg?image_play_button=true&amp;image_play_button_color=7b796ae0&amp;image_crop_resized=684x428" alt="teamfocus Notifications" /></a></h3>
+<h3 style="color: #555555;">What are Notifications?</h3>
+<p>The Notifications feature in teamfocus helps you keep on top of your important tasks by allowing you to choose to be notified, by email, whenever a task is added, edited or leaves your Filter<a href="http://www.teamfocus.me/support/online-help/lists-creating-and-grouping/" title="Lists – Creating and Grouping" target="_blank" style="color: #00aad5;"></a> (saved search).</p>
+<p>Using Notifications allows you to;</p>
+<ul>
+<li>Keep track of when a new tasks is added to your Filter</li>
+<li>Be notified when a task becomes overdue and needs attention</li>
+<li>Be notified when a task is edited or modified on a Filter you are following</li>
+</ul>
+<p>While Notifications are easy to use, they can also be an extremely powerful tool in helping you manage your workload across many teams.</p>
+<p>Any Filter you can create, you can subscribe to. This means that you can create custom Filters that provide you with an indicator of your Teams performance, and when combined with Notifications, can help you monitor and manage the flow of tasks through your <a href="http://www.teamfocus.me/support/online-help/workflows-steps-and-fields/" title="Workflows – Steps and Fields" target="_blank" style="color: #00aad5;">Workflows</a>.</p>
+<p>Here are a just a few examples of the types of Filters you can create and subscribe to.</p>
+<p><strong>Time based Filters</strong></p>
+<ul>
+<li>Set-up and subscribe to a time based Filter to be notified when a Task falls due tomorrow, or has been completed in the past week, or be notified with a daily summary of any and all changes to tasks within your teams.</li>
+</ul>
+<p><strong>Step based Filters</strong></p>
+<ul>
+<li>Step based Filters could include being notified when a Task is waiting to be invoiced or a Task is waiting for Managerial approval before progressing. You can also be notified when a new order is received or is waiting to be posted.</li>
+</ul>
+<p><strong>Metrics based Filters</strong></p>
+<ul>
+<li>By combining the teamfocus <a href="http://www.teamfocus.me/support/online-help/metrics/" title="Metrics" target="_blank" style="color: #00aad5;">Metrics</a> feature into your Filters, you can be notified when a Task moves from a Green (normal operating parameters) to Amber (outside the established time period). You can also create and subscribe to a Filter that notifies you when a Task moves from Amber to Red, thereby identifying those Tasks that require immediate attention.</li>
+</ul>
+<h2 style="color: #555555; font-size: 26px">How to use Notifications.</h2>
+<p>You can start using Notifications straight away, just subscribe to an existing Filter, or alternatively, create and subscribe to a new Filter from the ideas above.</p>
+<p><strong>To subscribe</strong> to a Filter just click the “Bell” icon on the Filter you want to subscribe to. You will then be given a choice of three actions to select from;</p>
+<ul>
+<li>New Tasks</li>
+<li>Tasks removed</li>
+<li>Tasks that have changed</li>
+</ul>
+<p>Just select the actions you which to be notified of, and you’re done.</p>
+<p><strong>To unsubscribe</strong> yourself from the Filter, just click the Bell icon again and deselect the highlighted actions.</p>
+<p>This example shows the Bell icon for subscribing to the Content Ideas Filter.</p>
+<p><img loading="lazy" class=" wp-image-4321 alignnone" src="http://help.teamfocus.me/wp-content/uploads/2014/04/Notifications.jpg" alt="subscribe to Notifications" width="289" height="444" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/teamfocus-notifications-helps-keep-track-teamwork-without-checking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why is Customizability Important?</title>
+		<link>/why-is-customizability-important/</link>
+					<comments>/why-is-customizability-important/#respond</comments>
+		
+		<dc:creator><![CDATA[kevin]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2014 13:34:19 +0000</pubDate>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Workflow software]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=3405</guid>
+
+					<description><![CDATA[teamfocus is an incredibly powerful project team management system that uses Workflows at its heart. A major part of this power comes from the customizability that teamfocus provides out of the box. Why is this customizability important? The simple fact is that every company is different—or at least the successful ones differentiate themselves. In any given market...]]></description>
+										<content:encoded><![CDATA[<p><a href="//teamfocus.me/">teamfocus</a> is an incredibly powerful project team management system that uses Workflows at its heart. A major part of this power comes from the customizability that teamfocus provides out of the box. Why is this customizability important?</p>
+<p>The simple fact is that every company is different—or at least the successful ones differentiate themselves. In any given market there may be room for more than one company to be successful. In fact, there could be several market leaders.</p>
+<p>In their 1995 book <em>The Discipline of Market Leaders,</em> authors Michael Treacy and Fred Wiersema outlined three types of market leaders, based on their <strong>strategic focus</strong>:</p>
+<ul>
+<li>Companies that aim for <strong>operational excellence</strong>;</li>
+<li>Companies that are committed to <strong>product leadership</strong>; and,</li>
+<li>Companies that are dedicated to <strong>customer intimacy</strong>.</li>
+</ul>
+<p>What should be immediately clear is that in order to successfully differentiate themselves along lines like these, companies will need to have remarkably differentiated strategies. These will dictate unique business processes, and thus the company aspiring for market leadership will require <em>customized workflows</em>.</p>
+<p>If we look at a simple ordering process for a consumer electronics company, the processes might differ as follows:</p>
+<ul>
+<li>An operationally excellent company might offer a simple web form for customers that quickly integrates to the ordering, credit and shipping systems within the company so that the order ships quickly;</li>
+<li>A product leader might set itself up with a retail place to showcase its products to its customers, who can then purchase from stock, or order in for later delivery; or,</li>
+<li>A company dedicated to its customers might send a representative to the customer’s premises to determine their specific needs and wants and to provide a completely customized solution.</li>
+</ul>
+<p>Although the end result is a customer ordering and receiving a product, the processes are very different, and the workflows within the company would need to be optimised. Using teamfocus as a system for task management for teams will help to keep everything together.</p>
+<p>Every person in the company will need to be aware of the strategic focus (i.e. operational excellence, product leadership or customer intimacy) and their role within this. Processes and workflows need to be tied together seamlessly.</p>
+<p>As stated a couple of weeks ago in our post of <a href="https://www.teamfocus.me/personal-productivity-teams/">Personal Productivity for Teams</a>:</p>
+<blockquote><p>most breakdowns in business processes occur not within the discrete process elements, but within handoffs (or transitions) between process elements…</p></blockquote>
+<p>So a true workflow cannot be a canned, out-of-the-box thing. It must be unique—unique to the company and its strategic focus.</p>
+<p>As a web based task management solution <a href="//teamfocus.me/">teamfocus</a> provides the ultimate flexibility in setting up customized employee task management capabilities. The workflows can be customized, and so can the reporting. This is something that should not be overlooked—there is an old saying that suggests ‘you get what you measure’.</p>
+<p>The great thing about <a href="//teamfocus.me/">teamfocus</a> is that it’s an online task management system for organizations large and small. With a <a href="https://www.teamfocus.me/pricing/">free option for up to three users</a> teamfocus can even be a family task manager.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/why-is-customizability-important/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
