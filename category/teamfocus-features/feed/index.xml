@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teamfocus features &#8211; teamfocus | project team management | web-based task management</title>
+	<atom:link href="/category/teamfocus-features/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Workflows for teams</description>
+	<lastBuildDate>Wed, 09 Mar 2016 01:28:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>You can now delete tasks</title>
+		<link>/delete-tasks/</link>
+					<comments>/delete-tasks/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 01:23:44 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">https://www.teamfocus.me/?p=4840</guid>
+
+					<description><![CDATA[teamfocus now allows you to delete tasks]]></description>
+										<content:encoded><![CDATA[<p>There have been a lot of requests from our customers about the ability to delete tasks from their team. It&#8217;s a topic that we have been wrestling with at teamfocus for a while with good arguments for and against. Eventually it was decided to go with the people who know their business requirements best. Our users.</p>
+<p>So we&#8217;re happy to announce that our latest release includes the ability to allow users to permanently delete tasks from workflows.</p>
+<p>The function has been added as part of teamfocus Permissions so team administrators can control who has access to this feature. A team administrator or any user who has access to Edit Workflows can switch on the delete tasks permission in the Permission settings for any workflow.</p>
+<p><a ref="magnificPopup" href="https://www.teamfocus.me/wp-content/uploads/2016/03/teamfocus-wfe-permission-delete-task.png"><img loading="lazy" src="https://www.teamfocus.me/wp-content/uploads/2016/03/teamfocus-wfe-permission-delete-task.png" alt="delete_tasks" width="333" height="672" class="alignnone size-full wp-image-4726" /></a></p>
+<p>Once permission has been assigned, any user who now has that permission will have the option to &#8220;Move to Trash&#8221; in the task edit window.</p>
+<p><a ref="magnificPopup" href="https://www.teamfocus.me/wp-content/uploads/2016/03/teamfocus-edit-task-delete-button.png"><img loading="lazy" src="https://www.teamfocus.me/wp-content/uploads/2016/03/teamfocus-edit-task-delete-button.png" alt="delete_tasks" width="333" height="672" class="alignnone size-full wp-image-4726" /></a></p>
+<p>The task will no longer appear in any searches however you can find all tasks marked for deletion by searching for <i>in:trash</i> in the search box.</p>
+<p>Once this task has been marked for deletion it has 30 days before teamfocus does a daily sweep to remove any tasks flagged for deletion more than 30 days ago. If you can&#8217;t wait that long, we have also included an &#8220;Empty Trash&#8221; option in the &#8220;More&#8221; top-menu item. This option will permanently remove any deleted tasks immediately. Once tasks are permanently removed teamfocus has no way to recover them so it&#8217;s important to be sure when deleting tasks.</p>
+<p>Finally, before being permanently deleted and inside the 30 day window, a task can be un-deleted from within the task edit window. This removes the delete flag and the task is returned to the workflow it was originally deleted from.</p>
+<p>Thanks to our customers for all their feedback and making this important change happen.</p>
+<p>More detailed instructions can be found in our manual which is <a href="https://docs.google.com/document/d/1GPANC3X1T4YT8X61sk2qUd32otfmO7DnlrxTNp09qh8/export?format=pdf">available for download here.</a>.</p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/delete-tasks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Easily change what data you need</title>
+		<link>/easily-change-what-data-you-need/</link>
+					<comments>/easily-change-what-data-you-need/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Mon, 18 May 2015 04:05:28 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4725</guid>
+
+					<description><![CDATA[only store what data you need for your tasks. quickly and easily.]]></description>
+										<content:encoded><![CDATA[<p>So many of the other ITSM (Information Technology Service Management) programs out there have so many fields that need to be filled in that you don&#8217;t use. It often takes longer to work with the task management system than to action the task. This can lead to tasks being completed and not being entered into the system.</p>
+<p>teamfocus has always allowed you to control the data you store but now its even easier. Just clicking a heading in your task view lets you add new columns, hide columns you don&#8217;t want to use anymore and also choose which ones appear in search results and which are available when editing a task full screen.</p>
+<p>It&#8217;s even easy to change the order to suit your preferences. Anyone with the permissions to edit the particular workflow can now make these changes in your team.</p>
+<p><a ref="magnificPopup" href="http://www.teamfocus.me/wp-content/uploads/2015/05/Screenshot_051815_015953_PM.jpg"><img loading="lazy" src="http://www.teamfocus.me/wp-content/uploads/2015/05/Screenshot_051815_015953_PM.jpg" alt="Screenshot_051815_015953_PM" width="333" height="672" class="alignnone size-full wp-image-4726" srcset="/wp-content/uploads/2015/05/Screenshot_051815_015953_PM.jpg 333w, /wp-content/uploads/2015/05/Screenshot_051815_015953_PM-149x300.jpg 149w, /wp-content/uploads/2015/05/Screenshot_051815_015953_PM-150x303.jpg 150w, /wp-content/uploads/2015/05/Screenshot_051815_015953_PM-198x400.jpg 198w" sizes="(max-width: 333px) 100vw, 333px" /></a></p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/easily-change-what-data-you-need/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How do I know how to progress this task ?</title>
+		<link>/how-do-i-know-how/</link>
+					<comments>/how-do-i-know-how/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 01:45:26 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4713</guid>
+
+					<description><![CDATA[teamfocus now stores your business rules right inside the workflow.]]></description>
+										<content:encoded><![CDATA[<p>teamfocus has always helped you to know which tasks to work on and in what order. Up until now however, there was no help in knowing how to progress any particular task.</p>
+<p>With our latest feature, the ability to attach documents not only on your tasks, but also on your workflow steps too you will be able to know how to progress a task.</p>
+<p>This is great for a quality assurance step where you may need another checklist, or some &#8220;paper&#8221; record of your activities. When you need a document to do a task, it&#8217;s easily downloaded, right from your workflow.<br />
+As your procedures are updated, the attached documents can be updated so your team always has access to the right documents when and where they need them.</p>
+<p>Your business rules and procedures will always be available to help your team work effectively.</p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-do-i-know-how/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Teamwork relies on good communication</title>
+		<link>/teamwork-relies-on-good-communication/</link>
+					<comments>/teamwork-relies-on-good-communication/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2015 00:05:12 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4705</guid>
+
+					<description><![CDATA[teamfocus now helps your team communicate more effectively]]></description>
+										<content:encoded><![CDATA[<p>teamwork relies on good communication. One of the benefits of teamfocus is keeping people on track in a meeting or while in a phone conference. Its great when you are all discussing a list of tasks and can work through things quickly.</p>
+<p>Sometimes however, teams don&#8217;t have regular meetings or phone conferences but still need a way to stay in touch. So we have addressed better communications right in the product.</p>
+<p>We now have a comments system on every task. It can be used for things like status updates on tasks, or even real-time chatting between colleagues working on the same task.</p>
+<p>Simply click on the comments icon on the left hand side of each task to open the comments tab of the task and start commenting.</p>
+<p>Of course, all comments are searchable, you can even use the special &#8220;has:comments&#8221; or  &#8220;has:newcomments&#8221; to find tasks either with comments or just new comments respectively.</p>
+<p>While we were there, we also added a quick move icon (the arrow) to every task so its easy to move it to the next step.</p>
+<p>We have lots of new things coming to teamfocus shortly but its really the feedback we receive from people using the product that helps us decide what to work on next. Please keep the feedback coming in.</p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/teamwork-relies-on-good-communication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sometimes we all need help</title>
+		<link>/sometimes-we-all-need-help/</link>
+					<comments>/sometimes-we-all-need-help/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2015 03:46:44 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4701</guid>
+
+					<description><![CDATA[Sometimes we all need help. teamfocus tasks now support multiple workers.]]></description>
+										<content:encoded><![CDATA[<p>Sometimes when we&#8217;re given a task, we need help. In teamfocus, previously it was best to create a task per person so each could track what had to be done.</p>
+<p>This wasn&#8217;t the best solution and we knew we could do better.</p>
+<p>We did do better. We fixed it.</p>
+<p>Now in teamfocus, you can select multiple workers for a task.</p>
+<p>This is a simple setting in the workflow editor when editing the field you want to change. If you enable the &#8220;multiple selections&#8221; option.</p>
+<p><img loading="lazy" src="http://www.teamfocus.me/wp-content/uploads/2015/04/Screenshot_041415_014321_PM.jpg" alt="Screenshot_041415_014321_PM" width="433" height="321" class="alignnone size-full wp-image-4702" srcset="/wp-content/uploads/2015/04/Screenshot_041415_014321_PM.jpg 433w, /wp-content/uploads/2015/04/Screenshot_041415_014321_PM-300x222.jpg 300w, /wp-content/uploads/2015/04/Screenshot_041415_014321_PM-179x133.jpg 179w" sizes="(max-width: 433px) 100vw, 433px" /></p>
+<p>While we were changing the way this worked, we also added the ability to allow multiple selections to all lists of items too.</p>
+<p>All of your normal searching and reporting just works with the new values just like you would expect.</p>
+<p>To get to this option, just click the settings menu, then open the workflow editor. Select fields and open the fields you want to change.</p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/sometimes-we-all-need-help/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New date formats available</title>
+		<link>/new-date-formats-available/</link>
+					<comments>/new-date-formats-available/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2015 23:47:13 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4694</guid>
+
+					<description><![CDATA[Its about time (or dates) new teamfocus date formats to suit the way you work]]></description>
+										<content:encoded><![CDATA[<p>teamfocus originally supported dates only in the year-month-day format. This meant that all dates looked like 2015/02/27.</p>
+<p>We had some feedback from our users asking for more flexibility in the formatting of dates so we have given you the ability to choose the format that suits you.</p>
+<p>Clicking on &#8220;My Settings&#8221; in the settings menu will now let you change how the dates will look for you.</p>
+<p>This is another of the features that have been developed directly based on user feedback so please be sure to send us any ideas you may have by using the feedback link inside the teamfocus application.</p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-date-formats-available/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Metrics based on your fields</title>
+		<link>/metrics-based-on-your-fields/</link>
+					<comments>/metrics-based-on-your-fields/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2015 00:55:48 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4692</guid>
+
+					<description><![CDATA[Based on feedback from customers, teamfocus has just released a new metrics system based on your data. Not just the last edited or last moved dates for your tasks.]]></description>
+										<content:encoded><![CDATA[<p>We are very excited to announce that teamfocus now supports metrics based on your dates on tasks.</p>
+<p>Metrics were previously based only on how long a task had been sitting at a step in the workflow, or how long since the task was changed. While this was a great way to tell you where your bottlenecks were, it didn&#8217;t help if some of your tasks were not due to move steps yet.</p>
+<p>teamfocus now allows you, when setting up metrics on a step in the workflow editor, to be able to choose any of your date fields to set metrics on. This way, the color of a task will depend on how close the date is.</p>
+<p>Let&#8217;s say for example you have a due date field in your workflow. You might want a task to be green until its a week away from being due and red 1 day before. This is now achieved with a simple change to the step metrics.</p>
+<p>As always, the existing functions are still there and you can have different metrics on each step.</p>
+<p>This is another of the features that have been developed directly based on user feedback so please be sure to send us any ideas you may have by using the feedback link inside the teamfocus application.</p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/metrics-based-on-your-fields/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The new teamfocus mobile app is available!</title>
+		<link>/new-teamfocus-mobile-app-now-available/</link>
+					<comments>/new-teamfocus-mobile-app-now-available/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2015 05:44:35 +0000</pubDate>
+				<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4652</guid>
+
+					<description><![CDATA[We have just released the teamfocus mobile app making accessing your account even easier when you're away from your desk]]></description>
+										<content:encoded><![CDATA[<p>We are very excited to announce that the new teamfocus mobile app is now available to download free, for both iOS and Android (see the links below).</p>
+<p>The teamfocus mobile app makes accessing your account even easier when you&#8217;re away from your desk. We have included all the key functions to ensure you stay connected when you&#8217;re on the go.</p>
+<p><a ref="magnificPopup" href="http://www.teamfocus.me/wp-content/uploads/2014/12/teamfocus-app-1.jpeg"><img loading="lazy" class="alignnone wp-image-4664" src="http://www.teamfocus.me/wp-content/uploads/2014/12/teamfocus-app-1.jpeg" alt="teamfocus app 1" width="200" height="355" /></a>                                <a ref="magnificPopup" href="http://www.teamfocus.me/wp-content/uploads/2014/12/teamfocus-app-2.jpeg"><img loading="lazy" class="alignnone wp-image-4665" src="http://www.teamfocus.me/wp-content/uploads/2014/12/teamfocus-app-2.jpeg" alt="teamfocus app 2" width="200" height="355" /></a></p>
+<h4><span style="color: #0e7ca6;">With the new mobile app you can:</span></h4>
+<p><span style="font-size: medium;"><span style="color: #0e7ca6;">Keep in touch with your team when you&#8217;re not at your desk</span></span><br />
+Quickly and easily stay up-to-date with all of your teams tasks.</p>
+<p><span style="font-size: medium;"><span style="color: #0e7ca6;">Stay organized</span></span><br />
+With Filter view, you can see all of your teams filters, like “Active Tasks” and “Completed Tasks” you can also see any custom filters you have created.</p>
+<p><span style="font-size: medium;"><span style="color: #0e7ca6;">Edit any task</span></span><br />
+You can select any task for full editing.</p>
+<p><span style="font-size: medium;"><span style="color: #0e7ca6;">Add a new task</span></span><br />
+Quickly add a new task to any workflow.</p>
+<p><span style="font-size: medium;"><span style="color: #0e7ca6;">Keep tasks moving when you&#8217;re not in the office</span></span><br />
+When a task is ready to move to the next step like &#8220;Complete&#8221;, just select the “Move” option and all of the available steps in your workflow will be available for you to select from.</p>
+<p><a href="http://tf3.me/ios" title="teamfocus iOS App"><img loading="lazy" class="alignnone size-full wp-image-4644" src="http://www.teamfocus.me/wp-content/uploads/2014/12/mobileapplebutton.png" alt="mobileapplebutton" width="150" height="44" /></a>              <a href="http://tf3.me/22" title="teamfocus Android App"><img loading="lazy" class="alignnone size-full wp-image-4643" src="http://www.teamfocus.me/wp-content/uploads/2014/12/googlemobilebutton.png" alt="Google Play Store" width="127" height="44" /></a></p>
+<p>We will be constantly improving the mobile app to provide you with the best possible experience, so if you have any suggestions or feedback, please email us at <a href="mailto:support@teamfocus.me" title="support@teamfocus.me">support@teamfocus.me</a></p>
+<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+<h1>Thanks!</h1>
+<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-teamfocus-mobile-app-now-available/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>You can now integrate your Calendar with your teamfocus account</title>
+		<link>/can-now-integrate-calendar-teamfocus-account/</link>
+					<comments>/can-now-integrate-calendar-teamfocus-account/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2014 05:27:16 +0000</pubDate>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4546</guid>
+
+					<description><![CDATA[You can now integrate your Calendar with your teamfocus account. A fantastic option for scheduled maintenance tasks.]]></description>
+										<content:encoded><![CDATA[<p>Now it&#8217;s easy to create tasks directly from your calendar. To help make scheduling easy we now support the integration of your iCalendar applications into your teamfocus account.</p>
+<p>By linking teamfocus with an iCalendar, you can automatically create tasks as each event occurs. Services like Google calendars for Gmail and IBM&#8217;s Lotus Notes support sharing calendars with iCalendar.</p>
+<p>This allows for the easy creation of recurring events for tasks such as regular maintenance events or meetings. As each event is due, teamfocus will automatically create a task in teamfocus.</p>
+<p>You can use the edit button after a calendar is linked to further control the Workflow and Step used for the new tasks.</p>
+<p><strong>How to link your iCalendar to teamfocus</strong><br />
+&#8211; To link your iCalendar to your teamfocus account, go to the settings icon in teamfocus, then go to Connections =&gt; Calendars, and select the &#8220;Add A New Calendar Connection&#8221; button.</p>
+<p><strong>Benefits of Calendar linking</strong><br />
+&#8211; Automatically create tasks as each event occurs in you calendar.<br />
+&#8211; Capture reoccurring calendar events in your teamfocus account for a complete record of tasks achieved</p>
+<p>If you have any questions or would like assistance using the calendar integration feature, just email us at <a href="mailto:support@teamfocus.me">support@teamfocus.me</a></p>
+<section class="l-section wpb_row height_auto"><div class="l-section-h i-cf"><div class="g-cols via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default">
+<div class="wpb_column vc_column_container"><div class="vc_column-inner">
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+ 		<h1>Thanks!</h1>
+ 		
+		<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+ 	</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+
+		</div>
+	</div>
+
+</div></div>
+</div></div></section>
+]]></content:encoded>
+					
+					<wfw:commentRss>/can-now-integrate-calendar-teamfocus-account/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quickly create tasks by forwarding an email to teamfocus</title>
+		<link>/quickly-create-tasks-forwarding-email-teamfocus/</link>
+					<comments>/quickly-create-tasks-forwarding-email-teamfocus/#respond</comments>
+		
+		<dc:creator><![CDATA[tfadmin]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2014 05:20:51 +0000</pubDate>
+				<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[teamfocus features]]></category>
+		<guid isPermaLink="false">http://www.teamfocus.me/?p=4543</guid>
+
+					<description><![CDATA[teamfocus now supports creating tasks by simply forwarding or sending emails to a custom address. You can now finally achieve inbox zero !]]></description>
+										<content:encoded><![CDATA[<p>One of the many great time saving features in teamfocus is the ability to create a new task by simply forwarding an email through to your teamfocus account.</p>
+<p>This can be very useful for capturing support emails or billing and invoicing emails and helps to keep your team focused on the work instead of checking emails.</p>
+<p>You can even set up a different addresses for assigning tasks to different team members.</p>
+<h5 class="null">How to get started</h5>
+<p>To set-up the teamfocus email address that you forward to, go to the settings icon in teamfocus, then go to Connections =&gt; Email, and select the &#8220;Add A New Email Connection&#8221; button.</p>
+<p>When you click on the &#8216;Add a New Email Connection&#8217; button you will be asked to name the new email connection and you can also choose how your email should create your new tasks, such as having the subject of the email be inserted as the name of the new task.</p>
+<p>Once set-up is completed, whenever an email is received at that address, teamfocus will create a single task with the information from the email.</p>
+<p><strong>Tip:</strong> You can fully automate the process by creating an email forwarding rule. For example, this can help you save time when you receive a new bill by automatically forwarding the email to teamfocus and having a new task created that goes straight to your teamfocus accounts workflow.</p>
+<p>As always, if you have any questions or would like assistance using the email task creation feature, just email us at <a href="mailto:support@teamfocus.me">support@teamfocus.me</a></p>
+<section class="l-section wpb_row height_auto"><div class="l-section-h i-cf"><div class="g-cols via_grid cols_1 laptops-cols_inherit tablets-cols_inherit mobiles-cols_1 valign_top type_default">
+<div class="wpb_column vc_column_container"><div class="vc_column-inner">
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<script> var tfajaxurl = '/wp-admin/admin-ajax.php';</script><div name=tfsignup><form method="post" name="tfsignup_form">	<div>
+							<label for="tfsignup_email"></label>
+						</div>	<div class="tfsignup_email_error error"></div>	<div id="tfsignup_email_container">
+							<input type="text" value="" name="tfsignup_email" placeholder="email@address.com" />
+						</div>	<div name="tfsignup_buttons" id="tfsignup_buttons_container">       <input type="hidden" value="register" name="tfsignup_action">       <input type="hidden" name="tfsignup_timezone"><input type="hidden" name="tfsignup_version" value="1.0" />       <input type="submit" class="g-btn" value="Start Here - Free" onClick="goog_report_conversion();" />   </div>
+						<div class="tfsignup_spinny" style="display:none">
+							<img src="https://my.teamfocus.me/inc/images/ajax-loader-small.gif" />
+						</div>	<div name="tfsignup_register_error" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup error" style="display:none"></div></form>
+					</div><div name="tfsignup_thanks" data-div="&#091;name=tfsignup&#093;" class="tfsignup_popup" style="display:none">
+ 		<h1>Thanks!</h1>
+ 		
+		<div class="p">To get started, click the verification link in the e-mail we just sent you.</div>
+<div class="p tfsignup_mobile">Please complete set-up on a tablet or desktop</div>
+ 	</div>
+			<!-- Google Code for Signup Conversion Page
+			In your html page, add the snippet and call
+			goog_report_conversion when someone clicks on the
+			phone number link or button. -->
+			<script type='text/javascript'>
+			  /* <![CDATA[ */
+			  goog_snippet_vars = function() {
+				var w = window;
+				w.google_conversion_id = 979279044;
+				w.google_conversion_label = 'OR1cCJSznAgQxLn60gM';
+				w.google_conversion_value = 1.00;
+				w.google_conversion_currency = 'AUD';
+				w.google_remarketing_only = false;
+			  }
+			  // DO NOT CHANGE THE CODE BELOW.
+			  goog_report_conversion = function(url) {
+				goog_snippet_vars();
+				window.google_conversion_format = '3';
+				window.google_is_call = true;
+				var opt = new Object();
+				opt.onload_callback = function() {
+				if (typeof(url) != 'undefined') {
+				  window.location = url;
+				}
+			  }
+			  var conv_handler = window['google_trackConversion'];
+			  if (typeof(conv_handler) == 'function') {
+				conv_handler(opt);
+			  }
+			}
+			/* ]]&gt; */
+			</script>
+			<script type='text/javascript'
+			  src='//www.googleadservices.com/pagead/conversion_async.js'>
+			</script>
+		
+
+		</div>
+	</div>
+
+</div></div>
+</div></div></section>
+]]></content:encoded>
+					
+					<wfw:commentRss>/quickly-create-tasks-forwarding-email-teamfocus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
